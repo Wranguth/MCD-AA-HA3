@@ -1,4 +1,4 @@
-## Master in Data Science
+## Master's in Data Science
 
 ### Machine Learning 2023/24
 #### 3rd Home Assignment - Group 8
