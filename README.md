@@ -7,4 +7,4 @@ Tiago Assis, 62609 | Rute Patuleia, 51780 | João Lobato, 62611 | Miguel Landum,
 
 `08.txt` contains the predicted values. \
 `HA3_Group8.pdf` is the report for this work. \
-`HA3_Group8.ipynb` provides the code used to generate the predictions.
+`HA3_Group8.ipynb` provides the code used to find the best solution and generate predictions.
